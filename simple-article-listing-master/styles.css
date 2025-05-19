@@ -1,0 +1,48 @@
+
+.beginning { 
+    text-align: center;
+}
+main {
+    font-family: Poppins;
+    justify-content: center;
+    text-align: center;
+    margin: 0px 30px
+}
+
+h1 {
+   margin: 0 0 42px;
+}
+
+.none {
+    color: #D9D9D9;
+    text-align: center;
+
+}
+.topic{
+ 
+font-size: 18px;
+display: flex;
+align-items: center;
+padding: 2rem 0;
+gap: 4rem;
+
+}
+img{
+    border-radius: 20px;
+}
+.topic-text{
+    display: flex;
+    flex-direction: column;
+}
+
+.topic-text > h3{
+    text-align: left;
+
+}
+
+p {
+    font-size: 14px;
+    margin: 12px 0 0 0 ;
+    color:  #4D5562; 
+    text-align: left;
+}
